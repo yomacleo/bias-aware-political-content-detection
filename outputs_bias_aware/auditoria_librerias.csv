@@ -1,0 +1,17 @@
+﻿Componente,Distribucion,Recomendada,Instalada,Estado
+Python,python,3.12.14,3.12.14,OK
+NumPy,numpy,1.26.4,2.5.2,OK
+pandas,pandas,2.2.3,3.0.5,OK
+SciPy,scipy,1.13.1,1.18.1,OK
+scikit-learn,scikit-learn,1.6.1,1.9.0,OK
+Gensim,gensim,4.3.3,4.4.0,OK
+Bokeh,bokeh,3.6.3,3.10.0,OK
+openpyxl,openpyxl,3.1.5,3.1.5,OK
+PyTorch,torch,2.11.0,2.11.0+cpu,OK
+Transformers,transformers,4.49.0,5.16.1,OK
+SentencePiece,sentencepiece,0.2.0,0.2.2,OK
+psutil,psutil,7.0.0,7.2.2,OK
+tqdm,tqdm,4.67.1,4.70.0,OK
+ipykernel,ipykernel,6.29.5,7.3.0,OK
+spaCy,spacy,3.8.7,3.8.16,OK
+spaCy español,es_core_news_sm,3.8.0,3.8.0,OK

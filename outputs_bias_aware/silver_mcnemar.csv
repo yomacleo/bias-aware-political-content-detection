@@ -1,0 +1,4 @@
+﻿Dimension,Comparacion,A_acierta_B_falla,A_falla_B_acierta,Discordantes,Diferencia,p_valor_exacto
+50,Pseudo E1 vs Pseudo E2,54,25,79,-29,0.0014660719473423367
+100,Pseudo E1 vs Pseudo E2,39,23,62,-16,0.05589722669971112
+200,Pseudo E1 vs Pseudo E2,40,25,65,-15,0.08168153394154003

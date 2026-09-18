@@ -1,0 +1,7 @@
+﻿Dimension,Comparacion,A_acierta_B_falla,A_falla_B_acierta,Discordantes,Diferencia,p_valor_exacto
+50,Silver hashtag vs Pseudo E2,21,3,24,-18,0.0002771615982055664
+50,Pseudo E1 vs Pseudo E2,2,2,4,0,1.0
+100,Silver hashtag vs Pseudo E2,22,3,25,-19,0.00015652179718017578
+100,Pseudo E1 vs Pseudo E2,3,1,4,-2,0.625
+200,Silver hashtag vs Pseudo E2,22,3,25,-19,0.00015652179718017578
+200,Pseudo E1 vs Pseudo E2,3,1,4,-2,0.625

@@ -1,0 +1,11 @@
+﻿Indicador,Valor
+Sistema operativo,Windows-11-10.0.26200-SP0
+Python,3.12.14
+Ejecutable Python,C:\Users\LABIA\Documents\Tesis cleo EPN\Codigo\tweetsCYG\Scripts\python.exe
+CPU lógicos,12
+RAM total,15.64 GB
+Dispositivo PyTorch,cpu
+GPU,No disponible
+Memoria GPU,No aplica
+CUDA de PyTorch,No aplica
+PyTorch,2.11.0+cpu
