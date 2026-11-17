@@ -1,0 +1,61 @@
+﻿Indicator,Valor,Origen
+Dataset,tweets,tweets
+Columna fuente,texto_original,tweets
+Documentos,144704,tweets
+Empty documents after cleaning,1896,tweets
+Tokens evaluados,1352078,tweets
+Tokens conservados,880756,tweets
+Retained by whitelist,1714,tweets
+Eliminados stopword,207579,tweets
+Removed by POS filtering,225843,tweets
+Removed by token length,34524,tweets
+Eliminados lista negra,2032,tweets
+Eliminados URL/email,0,tweets
+Eliminados ruido,1344,tweets
+Eliminados hashtag,0,tweets
+Removed mentions,0,tweets
+Dataset,evento_paro,paro
+Columna fuente,texto_original,paro
+Documentos,29642,paro
+Empty documents after cleaning,52,paro
+Tokens evaluados,258835,paro
+Tokens conservados,174758,paro
+Retained by whitelist,450,paro
+Eliminados stopword,33790,paro
+Removed by POS filtering,41714,paro
+Removed by token length,8187,paro
+Eliminados lista negra,119,paro
+Eliminados URL/email,0,paro
+Eliminados ruido,267,paro
+Eliminados hashtag,0,paro
+Removed mentions,0,paro
+Dataset,evento_muerte_cruzada,muerte
+Columna fuente,texto_original,muerte
+Documentos,115062,muerte
+Empty documents after cleaning,1844,muerte
+Tokens evaluados,1093243,muerte
+Tokens conservados,705998,muerte
+Retained by whitelist,1264,muerte
+Eliminados stopword,173789,muerte
+Removed by POS filtering,184129,muerte
+Removed by token length,26337,muerte
+Eliminados lista negra,1913,muerte
+Eliminados URL/email,0,muerte
+Eliminados ruido,1077,muerte
+Eliminados hashtag,0,muerte
+Removed mentions,0,muerte
+Dataset,trends,trends
+Columna fuente,trend_original,trends
+Documentos,1161,trends
+Empty documents after cleaning,203,trends
+Tokens evaluados,1624,trends
+Tokens conservados,1246,trends
+Retained by whitelist,0,trends
+Eliminados stopword,24,trends
+Removed by POS filtering,299,trends
+Removed by token length,24,trends
+Eliminados lista negra,0,trends
+Eliminados URL/email,0,trends
+Eliminados ruido,31,trends
+Eliminados hashtag,0,trends
+Removed mentions,0,trends

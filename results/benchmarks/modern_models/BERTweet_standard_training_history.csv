@@ -1,0 +1,3 @@
+model,epoch,training_loss,weak_validation_balanced_accuracy
+BERTweet_standard,1,0.5100660135816125,0.773494116470549
+BERTweet_standard,2,0.3593125014153181,0.8046584886162873

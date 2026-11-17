@@ -1,0 +1,22 @@
+﻿Field,Value
+run_date_utc,2026-11-17T03:14:10.683992+00:00
+configuration,"{'model_names': ('RoBERTuito', 'BETO', 'XLM-RoBERTa', 'BERTweet', 'PoliBERTweet'), 'maximum_development_rows': 24000, 'validation_fraction': 0.15, 'epochs': 2, 'max_length': 128, 'train_batch_size': 16, 'eval_batch_size': 32, 'grad_accumulation_steps': 2, 'learning_rate': 2e-05, 'weight_decay': 0.01, 'warmup_fraction': 0.06, 'seed': 5, 'balanced_loss_variant': True, 'benchmark_frozen_features': True, 'benchmark_fine_tuning': True, 'benchmark_classical': True, 'enable_rbf_baseline': True, 'enable_xgboost_baseline': True, 'enable_validation_threshold': True, 'save_fine_tuned_models': True, 'evaluate_cpu_inference': True, 'cuda_memory_fraction': 0.7, 'gpu_parallel': True, 'num_cpu_threads': 8}"
+source_file,codigoBIAS_rs_CYG(7).ipynb
+benchmark_train_size,20400
+benchmark_validation_size,3600
+human_test_size,600
+duplicate_texts_removed,3
+semantic_fit_seconds,28.510657837614417
+training_text_field,texto_original
+human_text_field,texto_original_para_anotar
+training_labels,"Word2Vec expanded Scenario 2, trained only on train split"
+checkpoint_selection,weak development validation balanced accuracy
+test_use,"600 adjudicated human tweets, reporting only"
+train_weak_distribution,"[7879, 12521]"
+val_weak_distribution,"[1310, 2290]"
+human_distribution,"[314, 286]"
+visible_gpu_indices,"0,1"
+visible_gpu_names,"['NVIDIA A16', 'NVIDIA A16']"
+python,"3.12.14 (main, Sep 29 2026, 15:01:18) [Clang 22.1.3 ]"
+torch,2.11.0+cu128
+transformers,4.49.0

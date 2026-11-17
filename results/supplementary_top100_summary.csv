@@ -1,0 +1,4 @@
+﻿Embedding_dimension,N_terms,Minimum_similarity,Maximum_similarity
+50,100,0.7112834,0.90139055
+100,100,0.7208412,0.90428865
+200,100,0.7202633,0.9091562

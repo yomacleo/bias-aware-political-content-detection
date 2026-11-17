@@ -1,0 +1,3 @@
+model,epoch,training_loss,weak_validation_balanced_accuracy
+XLM-RoBERTa_standard,1,0.4822892626827838,0.8294393146438215
+XLM-RoBERTa_standard,2,0.3244968096853471,0.8483266108870295

@@ -1,0 +1,3 @@
+model,epoch,training_loss,weak_validation_balanced_accuracy
+RoBERTuito_standard,1,0.4043465544078864,0.8402563418780626
+RoBERTuito_standard,2,0.2676845167182824,0.8464882162738758

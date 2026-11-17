@@ -1,0 +1,26 @@
+﻿Component,Distribution,Installed,Status
+Python,python,3.12.14,OK
+NumPy,numpy,1.26.4,OK
+pandas,pandas,2.2.3,OK
+SciPy,scipy,1.13.1,OK
+scikit-learn,scikit-learn,1.6.1,OK
+Gensim,gensim,4.3.3,OK
+Bokeh,bokeh,3.10.0,OK
+openpyxl,openpyxl,3.1.5,OK
+PyTorch,torch,2.11.0+cu128,OK
+Transformers,transformers,4.49.0,OK
+Tokenizers,tokenizers,0.21.0,OK
+Accelerate,accelerate,1.4.0,OK
+Hugging Face Hub,huggingface-hub,0.30.2,OK
+Datasets,datasets,3.5.0,OK
+SafeTensors,safetensors,0.5.3,OK
+SentencePiece,sentencepiece,0.2.2,OK
+pysentimiento,pysentimiento,0.7.3,OK
+XGBoost,xgboost,3.0.2,OK
+psutil,psutil,7.2.2,OK
+tqdm,tqdm,4.70.0,OK
+ipykernel,ipykernel,7.3.0,OK
+spaCy,spacy,3.8.16,OK
+Spanish spaCy model,es_core_news_sm,3.8.0,OK
+Matplotlib,matplotlib,3.9.4,OK
+PyYAML,PyYAML,6.0.3,OK

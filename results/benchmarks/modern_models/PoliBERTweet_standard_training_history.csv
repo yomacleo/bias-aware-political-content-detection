@@ -1,0 +1,3 @@
+model,epoch,training_loss,weak_validation_balanced_accuracy
+PoliBERTweet_standard,1,0.5034320451640615,0.789344644821494
+PoliBERTweet_standard,2,0.3560029543614855,0.8124020800693357

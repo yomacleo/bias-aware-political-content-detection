@@ -1,0 +1,11 @@
+﻿Indicator,Valor
+Operating system,Linux-5.15.0-186-generic-x86_64-with-glibc2.35
+Python,3.12.14
+Python executable,/home/lrecalde/data/cayala/envs/tweetsCYG/bin/python
+Logical CPUs,64
+Total RAM,377.09 GB
+PyTorch device,cuda
+GPU,NVIDIA A16
+GPU memory,14.61 GB
+PyTorch CUDA,12.8
+PyTorch,2.11.0+cu128

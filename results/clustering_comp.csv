@@ -1,0 +1,3 @@
+﻿Algorithm,Clusters,Ruido_pct,Silhouette,Davies_Bouldin,Calinski_Harabasz,Tiempo_s,Status
+K-Means (k=2),2,0.0,0.08895351737737656,2.9155266671282822,94.36267381610138,1.9525185581296682,OK
+HDBSCAN,0,100.0,,,,0.18844923563301563,OK
