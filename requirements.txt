@@ -1,0 +1,48 @@
+# Proyecto: Tesis Cleo / benchmark politico X.
+# Entorno: CPython 3.12.14 (se configura FUERA del requirements).
+# Instalar SOLO después de crear un entorno con Python 3.12.14 en ~/data/cayala/envs/bert.
+# La versión de Python NO se instala ni controla desde este archivo.
+# PyTorch NO está fijado aquí: su variante se selecciona según la GPU real,
+# el controlador y las versiones disponibles en el índice oficial de PyTorch.
+# Instalar PyTorch ANTES de ejecutar pip install -r para evitar una variante accidental.
+# Este conjunto prioriza compatibilidad con el notebook historico y
+# con el modulo benchmark_extension.py, no las versiones mas recientes.
+
+# Base reproducible del analisis original
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.6.1
+gensim==4.3.3
+bokeh==3.10.0
+openpyxl==3.1.5
+matplotlib==3.9.4
+seaborn==0.13.2
+psutil==7.2.2
+tqdm==4.70.0
+spacy==3.8.16
+
+# JupyterLab: se usa el servidor existente, solo se registra un kernel privado
+ipykernel==7.3.0
+ipywidgets==8.1.8
+
+# Transformadores y fine-tuning (rama 4.x por compatibilidad con el notebook)
+transformers==4.49.0
+tokenizers==0.21.0
+accelerate==1.4.0
+huggingface-hub==0.30.2
+safetensors==0.5.3
+sentencepiece==0.2.2
+
+# Preprocesamiento especifico de RoBERTuito, entre otras utilidades
+pysentimiento==0.7.3
+datasets==3.5.0
+emoji==2.14.1
+nltk==3.9.1
+
+# Baselines y comparaciones modernas
+xgboost==3.0.2
+
+# El modelo spaCy es_core_news_sm==3.8.0 se instala despues con
+# python -m spacy download es_core_news_sm
+# No instalar torchvision ni torchaudio salvo que el codigo lo requiera.
